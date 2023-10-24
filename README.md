@@ -20,8 +20,3 @@ Simply install the extension, and it will block YouTube pop-up ads and overlays 
 
 Feel free to contribute by forking the repository and creating pull requests.
 
-## License
-
-This project is under the [MIT License](LICENSE). Use and modify it freely.
-
-
