@@ -1,0 +1,20 @@
+{
+  "name": "YouTube PopUp Bloker",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab"],
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/itachi_16.png",
+      "48": "images/itachi_48.png",
+      "128": "images/itachi_128.png"
+    }
+  },
+  "icons": {
+    "16": "images/itachi_16.png",
+    "48": "images/itachi_48.png",
+    "128": "images/itachi_128.png"
+  }
+}
